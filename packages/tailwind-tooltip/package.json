@@ -1,14 +1,14 @@
 {
   "name": "@ceol/tailwind-tooltip",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "main": "index.js",
   "license": "MIT",
   "devDependencies": {
     "postcss": "^8.4.5",
     "tailwindcss": "^3.0.15"
   },
-  "publicConfig": {
+  "publishConfig": {
     "access": "public"
   },
-  "gitHead": "4cd83a32efad8a6513ddf3bbe13fb9550194178d"
+  "gitHead": "ed12cca0a568e803576a20c16ca5867cbfd0f932"
 }
